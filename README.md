@@ -26,3 +26,9 @@ AKU NEWBIE BNG:
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Personaldycoders&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Personaldycoders&theme=radical&hide_border=false)
+
+
+---
+
+## 🎉 Just Starting Out!
+![Excited Newbie](https://camo.githubusercontent.com/1f3af72e58d58f1ded97676f66a46f7c07ca3cd0ffbd485c61127ffa6e13da49/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39372f34312f66302f39373431663063363135313633356232393330306536663736353665313634342e676966)
