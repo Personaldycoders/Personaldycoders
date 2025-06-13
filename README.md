@@ -3,7 +3,7 @@
 # Hi My name is dycoders
 ### Full-Stack Developer from Indonesia
 
-Haii saya dycoders, Umur saya sekarang adalah 15 tahun, saya adalah Full-Stack Developer. Saya belajar dengan otodidak tidak ada guru atau pun pembimbing walaupun begitu saya tetap terus belajar coding untuk mencapai full stack developer.
+Haii saya dycoders, Umur saya sekarang adalah 15 tahun, saya adalah Full-Stack Developer. Saya belajar dengan otodidak tidak ada guru atau pun pembimbing walaupun begitu saya tetap terus belajar coding.
 
 - 🔭 I'm currently working on [Rest Api's dycoders](https://restapi.dycoders.xyz)
 - 🌱 I'm currently learning nodejs,javascript,python,reactjs,laravel
