@@ -1,4 +1,4 @@
-![Profile Banner](https://files.catbox.moe/xmsen2.jpg)
+<img width="1087" height="1428" alt="image" src="https://github.com/user-attachments/assets/e8fd006b-3671-4e5f-b997-aa76ccc9408a" />![Profile Banner]()
 
 # Hi My name is dycoders
 ### Full-Stack Developer from Indonesia
