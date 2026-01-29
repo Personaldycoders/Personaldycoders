@@ -1,4 +1,4 @@
-<img width="900" height="980" alt="banner" src="https://github.com/user-attachments/assets/e8fd006b-3671-4e5f-b997-aa76ccc9408a" />
+<img width="600" height="600" alt="banner" src="https://github.com/user-attachments/assets/e8fd006b-3671-4e5f-b997-aa76ccc9408a" />
 
 # Hi, I'm dycoders 👋
 ### Full-Stack Developer from Indonesia 🇮🇩
