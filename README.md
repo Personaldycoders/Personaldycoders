@@ -5,7 +5,7 @@
   <h3>Full-Stack Developer from Indonesia 🇮🇩</h3>
 
   <p>
-    <a href="https://instagram.com/dycodersxyz">
+    <a href="https://instagram.com/sidycoders.xyz">
       <img src="https://img.shields.io/badge/Instagram-dycodersxyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://wa.me/6285719898124">
