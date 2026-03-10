@@ -1,4 +1,5 @@
-<img width="650" height="650" alt="banner" src="https://github.com/user-attachments/assets/e8fd006b-3671-4e5f-b997-aa76ccc9408a" />
+![sidycoders](https://github.com/user-attachments/assets/a483d8c5-1e61-4ee2-89ba-3e2c9776aa03)
+
 
 # Hi, I'm dycoders 👋
 ### Full-Stack Developer from Indonesia 🇮🇩
