@@ -36,7 +36,7 @@ Saya fokus membangun **web app, REST API, dan automation** yang benar-benar dipa
 
 | Project | Link |
 |--------|------|
-| 🔧 **SidyCoders API** | [api.sidycoders.xyz](https://api.sidycoders.xyz) |
+| 🔧 **SidyCoders API** | [api.sidycoders.xyz](https://dycoderss.xyz) |
 | 🎵 **TikTok Downloader** | [tiktok.sidycoders.xyz](https://tiktok.sidycoders.xyz) |
 | 🤖 **Backend tools, Bot WA & Scraping** | Coming soon... |
 
