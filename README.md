@@ -98,7 +98,7 @@ Saya fokus membangun **web app, REST API, dan automation** yang benar-benar dipa
 
 | | |
 |--|--|
-| 🌐 Portfolio | [sidycoders.xyz](https://sidycoders.xyz) |
+| 🌐 Portfolio | [idycoders.xyz](https://idycoders.xyz) |
 | 📧 Email | xyydycoders@gmail.com |
 | 📸 Instagram | [@dycodersxyz](https://instagram.com/dycodersxyz) |
 | 💬 WhatsApp | [+62 857-1989-8124](https://wa.me/6285719898124) |
