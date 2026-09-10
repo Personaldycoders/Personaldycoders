@@ -5,13 +5,13 @@
   <h3>Full-Stack Developer from Indonesia 🇮🇩</h3>
 
   <p>
-    <a href="https://instagram.com/sidycoders.xyz">
+    <a href="https://instagram.com/idycoders.xyz">
       <img src="https://img.shields.io/badge/Instagram-dycodersxyz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://wa.me/6285719898124">
       <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-    <a href="https://sidycoders.xyz">
+    <a href="https://idycoders.xyz">
       <img src="https://img.shields.io/badge/Portfolio-sidycoders.xyz-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
   </p>
@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
-Halo! Nama saya **dycoders**, umur **15 tahun**, seorang **Full-Stack Developer** yang belajar secara **otodidak**.
+Halo! Nama saya **dycoders**, umur **16 tahun**, seorang **Full-Stack Developer** yang belajar secara **otodidak**.
 
 Tidak ada mentor, tidak ada jalan pintas.
 Cuma rasa penasaran, konsistensi, dan kopi dingin jam 2 pagi ☕💻
